@@ -1,4 +1,7 @@
 
+Python  Learning Zoomcamp
+
+
 Welcome to my Python learning journey! This README file outlines the plan and resources I'll be using to learn Python from basic to advanced in 30 days.
 
 Day 1-5: Basic Python
